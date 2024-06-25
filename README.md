@@ -12,6 +12,14 @@
 - 📫 How to reach me **tuncay.karahan61@hotmail.com**
 
 
+</p>
+<hr>
+
+<div align="center">
+  <img src="https://github.com/Tuncay-Karahan/Tuncay-Karahan/assets/173737094/e6c9d88c-6957-44ed-a1b6-6283e9744de8" alt="Description of the image" width="400" />
+</div>
+
+
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 <br>
